@@ -121,6 +121,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Author
 
-Created by [Matt Avery](https://github.com/elikibs) | [Elisha Consulting](https://elishaconsulting.com) | [LinkedIn](https://linkedin.com/in/mattavery)
-
-Part of a digital marketing AI toolkit. See also: [Technical Page Grader](https://github.com/elikibs/technical-page-grader), [Schema Markup Generator](https://github.com/elikibs/schema-markup-generator), [Alt Text Generator](https://github.com/elikibs/alt-text-generator), [Word to HTML Converter](https://github.com/elikibs/word-to-html-converter)
+Created by [Matt Avery](https://github.com/TXcountryNerd) | [Elisha Consulting](https://elishaconsulting.com) | [LinkedIn](https://www.linkedin.com/in/mattsavery/)
